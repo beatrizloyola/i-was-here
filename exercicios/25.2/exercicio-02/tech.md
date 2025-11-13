@@ -11,5 +11,5 @@
 
 ## Por que isso é relevante para alguém da área de computação?
 - É relevante porque assim podemos entender que o futuro é a tecnologia e faremos parte dessa inovação
-- Devemos estar sempre ligados nas novidades do mercado
+
 
