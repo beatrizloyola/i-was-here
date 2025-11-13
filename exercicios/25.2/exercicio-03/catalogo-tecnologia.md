@@ -32,6 +32,7 @@
 - Python - exemplo
 - JavaScript - exemplo
 - PHP (orientada à objetos) - @RiosGabri
+- Go - @phpedruo
 
 ---
 
