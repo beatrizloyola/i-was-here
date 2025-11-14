@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Beatriz Loyola (@beatrizloyola)
-- Nome 2 (@Gabrielorrico)
+- Gabriel Orrico (@Gabrielorrico)
 
 ## Visão Geral do Projeto
 
