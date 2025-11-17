@@ -47,6 +47,7 @@
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- neurotech - @eea100
 - Fiap 
 - Tempest - @eduardommb
 - Avanade
